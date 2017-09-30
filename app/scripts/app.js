@@ -6,14 +6,14 @@ angular.module('confusionApp', ['ui.router', 'ngResource']).config(function ($st
             url: '/',
             views: {
                 'header': {
-                    templateUrl: 'views/header.html'
+                    templateUrl: './views/header.html'
                 },
                 'content@': {
-                    templateUrl: 'views/home.html',
+                    templateUrl: './views/home.html',
                     controller: 'IndexController'
                 },
                 'footer': {
-                    templateUrl: 'views/footer.html'
+                    templateUrl: './views/footer.html'
                 }
             }
         })
@@ -22,7 +22,7 @@ angular.module('confusionApp', ['ui.router', 'ngResource']).config(function ($st
             url: 'aboutus',
             views: {
                 'content@': {
-                    templateUrl: 'views/aboutus.html'
+                    templateUrl: './views/aboutus.html'
                 }
             }
         })
@@ -31,7 +31,7 @@ angular.module('confusionApp', ['ui.router', 'ngResource']).config(function ($st
             url: 'contactus',
             views: {
                 'content@': {
-                    templateUrl: 'views/contactus.html',
+                    templateUrl: './views/contactus.html',
                     controller: 'ContactController'
                 }
             }
@@ -42,7 +42,7 @@ angular.module('confusionApp', ['ui.router', 'ngResource']).config(function ($st
             url: 'menu',
             views: {
                 'content@': {
-                    templateUrl: 'views/menu.html',
+                    templateUrl: './views/menu.html',
                     controller: 'MenuController'
                 }
             }
@@ -53,7 +53,7 @@ angular.module('confusionApp', ['ui.router', 'ngResource']).config(function ($st
             url: 'menu/:id',
             views: {
                 'content@': {
-                    templateUrl: 'views/dishdetail.html',
+                    templateUrl: './views/dishdetail.html',
                     controller: 'DishDetailController'
                 }
             }
