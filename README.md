@@ -7,7 +7,7 @@ AngularJS Web Application
 
 ## Demo
 
-![phone-view](Home.png) {: width: "200px" }
+![phone-view](Home.png =250x) {: width: "200px" }
 ![phone-view](About.png) {: width: "200px" }
 ![phone-view](Menu.png) {: width: "200px" }
 ![phone-view](Contact.png) {: width: "200px" }
