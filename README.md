@@ -6,8 +6,11 @@ AngularJS Web Application
 
 
 ## Demo
-![large-view](demo1.gif)
-![phone-view](demo2.gif)
+
+![phone-view](Home.png)
+![phone-view](About.png)
+![phone-view](Menu.png)
+![phone-view](Contact.png)
 
 
 ## technologies
