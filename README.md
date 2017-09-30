@@ -1,9 +1,21 @@
-# conFusion Restaurant ( BootStrap - AngularJS ) 
+# conFusion Restaurant ( BootStrap­ - AngularJS­ ) 
 
 AngularJS Web Application
 
 
-# How to run application on the local computer :
+
+
+## Demo
+![large-view](demo1.gif)
+![phone-view](demo2.gif)
+
+
+## technologies
+* HTML5, CSS, JS, [Bootstrap](http://getbootstrap.com/): frone-end
+* [AngularJs framework](https://angular.io/)
+* [Gulpjs](https://gulpjs.com/): automation
+
+## How to run application on the local computer :
 
 Open bash or cmd and direct to conFusion folder then
 
@@ -15,3 +27,8 @@ Open bash or cmd and direct to conFusion folder then
 
 3)  serve with hot reload at localhost:3001
 > gulp watch
+  
+  
+## License
+
+[MIT License].
