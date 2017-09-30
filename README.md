@@ -5,13 +5,13 @@ AngularJS Web Application
 
 # How to run application on the local computer :
 
-Open bash or cmd and direct to CafeVue folder then
+Open bash or cmd and direct to conFusion folder then
 
 1)  install dependencies
 > npm install
 
 2)  run json server
-> json-server .\json-server-api\db.json
+> json-server .\json-server\db.json
 
-3)  serve with hot reload at localhost:8080
+3)  serve with hot reload at localhost:3001
 > gulp watch
