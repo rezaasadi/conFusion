@@ -3,13 +3,15 @@
 AngularJS Web Application
 
 
-How to run application on the local computer :
+# How to run application on the local computer :
 
 Open bash or cmd and direct to CafeVue folder then
 
-install dependencies
-npm install
-run json server
-json-server .\json-server-api\db.json
-serve with hot reload at localhost:8080
-gulp watch
+1)  install dependencies
+> npm install
+
+2)  run json server
+> json-server .\json-server-api\db.json
+
+3)  serve with hot reload at localhost:8080
+> gulp watch
