@@ -7,10 +7,10 @@ AngularJS Web Application
 
 ## Demo
 
-![phone-view](Home.png)
-![phone-view](About.png)
-![phone-view](Menu.png)
-![phone-view](Contact.png)
+![phone-view](Home.png) { width: 200px; }
+![phone-view](About.png) { width: 200px; }
+![phone-view](Menu.png) { width: 200px; }
+![phone-view](Contact.png) { width: 200px; }
 
 
 ## technologies
