@@ -23,7 +23,7 @@ AngularJS Web Application
 Open bash or cmd and direct to conFusion folder then
 
 1)  install dependencies
-> npm  install
+> npm install
 
 2)  run json server
 > json-server .\json-server\db.json
